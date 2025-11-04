@@ -12,4 +12,4 @@
 4. tally flux spectrum for a whole core with energy group structure 'ECCO-1968'
 
 ### Full solutions
-- You can find the full solutions for the sodium void worth in /OpenMC_Full_Solutions.
+- You can find the full solutions for the sodium void worth in [/OpenMC_Full_Solutions](https://github.com/JIWONC-CORE/ictp-workshop).
